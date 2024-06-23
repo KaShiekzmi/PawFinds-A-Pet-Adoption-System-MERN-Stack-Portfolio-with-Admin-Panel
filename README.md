@@ -52,5 +52,5 @@ We welcome contributions to improve PawFinds! To contribute, follow these steps:
 
 ## Contact Information
 For questions, please contact 
-- [GitHub](https://github.com/kashiekzmi).
+- [GitHub](https://github.com/kashiekzmi)
 - [LinkedIn](https://www.linkedin.com/in/kashiekzmi)
