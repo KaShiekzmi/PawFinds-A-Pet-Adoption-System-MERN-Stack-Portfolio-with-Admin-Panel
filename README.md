@@ -5,7 +5,8 @@ So, PawFinds makes it easy to find new homes for pets and connect them with peop
 
 ### Watch PawFinds in Action
 
-[![Watch the video](https://img.youtube.com/vi/wXQpAoX7_QY/maxresdefault.jpg)](https://www.youtube.com/watch?v=wXQpAoX7_QY)
+[![Watch the video](![Screenshot 2024-06-23 170238](https://github.com/KaShiekzmi/PawFinds-A-Pet-Adoption-System-MERN-Stack-Portfolio-with-Admin-Panel/assets/114513868/521826b2-10d9-41b4-aec3-3497e23d2cbb)
+)](https://www.youtube.com/watch?v=wXQpAoX7_QY)
 
 Click the image above to watch a demo of PawFinds on YouTube.
 
