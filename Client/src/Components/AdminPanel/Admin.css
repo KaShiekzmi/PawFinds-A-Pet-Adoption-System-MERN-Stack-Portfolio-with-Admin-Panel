@@ -1,0 +1,134 @@
+:root {
+  --darkGrey: #1f2130;
+  --purple: #9d60f2;
+  --hoverPurple: #7d3dd7;
+  --white: white;
+  --black: black;
+  --textGrey: rgb(243, 237, 237);
+  --yellow: #fbc256;
+  --darkYellow: #f7b842;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fbc256;
+  color: white;
+  padding: 10px 20px;
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar-time {
+  font-family: "Varela Round", sans-serif;
+  font-size: 16px;
+}
+
+.admin-footer {
+  background-color: #fbc256;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+}
+
+.admin-footer p {
+  margin: 0;
+}
+
+.login-body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-container {
+  max-width: 300px;
+  margin: auto auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.login-container h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.login-container input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-container button {
+  background-color: #fbc256;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-container button:hover {
+  background-color: #555;
+}
+
+.error-message {
+  color: #ff0000;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+
+.admin-screen-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 0;
+}
+
+.admin-screen-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 20vw;
+  min-width: 20vw;
+  padding: 25px;
+}
+
+.admin-screen-left h3 {
+  margin-bottom: 20px;
+}
+
+.admin-screen-left p {
+  font-weight: bold;
+  font-size: large;
+  color: #fbc256;
+  font-family: "Varela Round", sans-serif;
+  cursor: pointer;
+  margin: 10px 0;
+  display: flex;
+  justify-content: flex-start;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #fbc256;
+}
+
+.admin-screen-left p:hover {
+  opacity: 0.8;
+ }
+
+.admin-screen-right {
+  border-left: 3px solid #fbc256;
+  padding: 0 4vw;
+  max-width: 80vw;
+  min-width: 80vw;
+}
