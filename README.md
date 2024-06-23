@@ -22,9 +22,9 @@ PawFinds is a web application that connects pet lovers with pets in need of a ho
 - Users interested in adopting a pet fill out an application form.
 - Admin evaluates adoption applications to select the most suitable adopter.
 - Admin maintains a history of adopted pets and their new owners.
-- Browse and search for available pets for adoption.
-- Filter pets based on pet type i.e. dog, cat, fish, etc.
-- Detailed pet profiles with photos and descriptions.
+- User can browse and search for available pets for adoption.
+- They can filter pets based on pet type i.e. dog, cat, fish, etc.
+- PawFinds offer detailed pet profiles with photos and descriptions.
 
 ## Technology Stack
 PawFinds is built using the MERN stack (MongoDB, Express.js, React, Node.js).
