@@ -1,6 +1,8 @@
 # PawFinds: A Pet Adoption System | MERN Stack Portfolio with Admin Panel
 "PawFinds" is a website where you can either give a pet up for adoption or adopt one. If you have a pet you can't care for anymore, you fill out a form. The admin then decides if they can put your pet on PawFinds. If they approve, they'll ask you to bring the pet to an adoption center.
+
 If you want to adopt a pet, you fill out a form with your details. The admin gets a lot of requests and picks the best one. If they choose you, they'll delete the other requests and take the pet off PawFinds. They'll keep a record of the pet and your contact info.
+
 So, PawFinds makes it easy to find new homes for pets and connect them with people who want to adopt.
 
 ### Watch PawFinds in Action
@@ -14,16 +16,18 @@ Click the image above to watch a demo of PawFinds on YouTube.
 PawFinds is a web application that connects pet lovers with pets in need of a home. Our platform simplifies the process of pet adoption by providing a seamless user experience.
 
 ## Features
+- Users can submit a pet for adoption by filling out a form.
+- Admin reviews adoption submissions and can approve or reject them.
+- Approved pets are listed on PawFinds for potential adopters to view.
+- Users interested in adopting a pet fill out an application form.
+- Admin evaluates adoption applications to select the most suitable adopter.
+- Admin maintains a history of adopted pets and their new owners.
 - Browse and search for available pets for adoption.
 - Filter pets based on pet type i.e. dog, cat, fish, etc.
 - Detailed pet profiles with photos and descriptions.
-- Adoption application submission through the platform.
 
-[Linkedin Post Link](https://www.linkedin.com/posts/kashiekzmi_pawfinds-petadoptionsystem-reactjs-activity-7097093926435663872-74zE?utm_source=share&utm_medium=member_desktop)
-
-## Demo Video
-Watch a quick demo of the PawFinds front end in action:
-[Video Link](https://github.com/KaShiekzmi/PawFinds-Pet-Adoption-System-Front-end-with-React-Js/assets/114513868/763719d5-10e2-4171-8d1c-837d4edecf6b)
+## Technology Stack
+PawFinds is built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
 ## **Please Note: This Project Is Designed for Laptop Screens**
 Kindly be aware that this project is optimized for laptop screens and is not responsive for mobile or tablet devices. The development of this project was carried out during an internship, and as the internship period has come to an end, further enhancements may not be applied.
@@ -31,8 +35,12 @@ Kindly be aware that this project is optimized for laptop screens and is not res
 ## Installation
 Follow these steps to set up the project locally:
 
-1. Clone the repository: `git clone https://github.com/KaShiekzmi/PawFinds-Pet-Adoption-System-Front-end-with-React-Js.git`
+1. Clone the repository: `git clone https://github.com/KaShiekzmi/PawFinds-A-Pet-Adoption-System-MERN-Stack-Portfolio-with-Admin-Panel.git`
 2. Install dependencies: `npm install`
+3. Run the server: `nodemon server` runs the server using nodemon, a tool that enhances the development experience by automatically restarting the server on file changes.
+
+### Additional Notes
+- Ensure you have Node.js and npm installed on your machine.
 
 ## Contributing
 We welcome contributions to improve PawFinds! To contribute, follow these steps:
