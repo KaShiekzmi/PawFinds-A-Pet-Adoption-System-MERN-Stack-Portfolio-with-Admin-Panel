@@ -37,7 +37,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository: `git clone https://github.com/KaShiekzmi/PawFinds-A-Pet-Adoption-System-MERN-Stack-Portfolio-with-Admin-Panel.git`
 2. Install dependencies: `npm install`
-3. Set up MongoDB: Replace mongodbURL in server.js with your MongoDB connection URL.
+3. Create a `.env` file with `mongooseURL` variable set to your MongoDB connection URL in the format `mongooseURL=mongodb://username:password@host:port/database_name`.
 4. Run the server: `nodemon server` runs the server using nodemon, a tool that enhances the development experience by automatically restarting the server on file changes.
 
 ### Additional Notes
