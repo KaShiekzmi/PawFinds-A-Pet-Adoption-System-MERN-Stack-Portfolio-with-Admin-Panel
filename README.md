@@ -39,6 +39,7 @@ Follow these steps to set up the project locally:
 2. Install dependencies: `npm install`
 3. Create a `.env` file in server with `mongooseURL` variable set to your MongoDB connection URL in the format `mongooseURL=mongodb://username:password@host:port/database_name`.
 4. Run the server: `nodemon server` runs the server using nodemon, a tool that enhances the development experience by automatically restarting the server on file changes.
+5. `npm start` to start front end.
 
 ### Additional Notes
 - Ensure you have Node.js and npm installed on your machine.
